@@ -7,3 +7,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im 6'4 with timbs on
 
+# My Projects 🚀
+
+## [Blackjack Simulator](https://github.com/timmey-110/blackjack)
+A Python-based Blackjack game with scoring, ace logic, and automated test cases.
+
+## [Cactus Jump](https://github.com/timmey-110/cactus_jump)
+JavaScript browser game with animated characters, backgrounds, and high-score logic.
