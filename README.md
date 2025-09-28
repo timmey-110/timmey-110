@@ -1,5 +1,5 @@
 ## Hi there 👋
- My name is oluwatimilehin Shodipe. I a sophomore at the University of Rhode Island, majoring in compututer science. i go by Timmy
+ My name is oluwatimilehin Shodipe. I am a sophomore at the University of Rhode Island, majoring in compututer science. i go by Timmy
 - 🔭 I’m currently working on a car dealership website
 - 🌱 I’m currently learning CPP and Git Bash
 - 🤔 I’m looking for help with resume building 
