@@ -14,3 +14,5 @@ A Python-based Blackjack game with scoring, ace logic, and automated test cases.
 
 ## [Cactus Jump](https://github.com/timmey-110/cactus_jump)
 JavaScript browser game with animated characters, backgrounds, and high-score logic.
+play here: https://timmey-110.github.io/cactus_jump/
+
